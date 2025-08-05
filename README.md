@@ -28,3 +28,4 @@ A clean and responsive hotel landing page created using **HTML5** and **CSS3**. 
 
 ## 📁 Project Structure
 
+# Simple-hotel-website-HTML-CSS

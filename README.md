@@ -29,3 +29,10 @@ A clean and responsive hotel landing page created using **HTML5** and **CSS3**. 
 ## 📁 Project Structure
 
 # Simple-hotel-website-HTML-CSS
+├── index.html # Main landing page
+├── style.css # CSS styles (optional if separated)
+├── heroimg.jpg # Hero section image
+├── rooms.jpg # Services image - rooms
+├── dining.jpg # Services image - dining
+├── pool.jpg # Services image - pool
+└── README.md # Project documentation
